@@ -11,7 +11,7 @@
   <name>Show Build Parameters plugin</name>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/Show+Build+Parameters+Plugin</url>
   
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <developers>
     <developer>
       <id>petehayes</id>

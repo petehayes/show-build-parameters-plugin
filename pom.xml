@@ -20,9 +20,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/show-build-parameters-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/show-build-parameters-plugin.git</developerConnection>
-    <url>http://github.com/jenkinsci/show-build-parameters-plugin</url>
+    <connection>scm:git:git://github.com/petehayes/show-build-parameters-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:petehayes/show-build-parameters-plugin.git</developerConnection>
+    <url>http://github.com/petehayes/show-build-parameters-plugin</url>
   </scm>
 
   <properties>

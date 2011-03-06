@@ -38,7 +38,8 @@ public class ShowParametersBuildAction extends InvisibleAction {
 
         @Override
         public void onCompleted(AbstractBuild<?, ?> r, TaskListener listener) {
-            r.addAction(new ShowParametersBuildAction(r));
+            if (r.getAction(ParametersAction.class) != null)
+                r.addAction(new ShowParametersBuildAction(r));
         }
     }
 }

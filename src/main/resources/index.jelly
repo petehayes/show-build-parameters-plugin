@@ -1,4 +1,3 @@
 <div>
-  This plugin add a job property that when enabled will add the display of
-  parameter values on the main build page
+  This plugin shows the parameter values on the main build page
 </div>
